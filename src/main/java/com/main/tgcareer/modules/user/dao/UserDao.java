@@ -29,5 +29,10 @@ public interface UserDao {
      * @param id
      */
     public void deleteUser(String id);
+
+    /*
+    * 新增用户时  设置用户id
+     */
+    public void setId(String id);
 }
 

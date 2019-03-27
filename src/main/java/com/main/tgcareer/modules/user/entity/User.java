@@ -3,6 +3,8 @@ package com.main.tgcareer.modules.user.entity;
 import lombok.Getter;
 import lombok.Setter;
 
+import java.util.UUID;
+
 public class User {
 //    id
     @Getter @Setter private String id;
@@ -40,4 +42,5 @@ public class User {
         return "id:"+this.id+"  openid:"+this.openid+"  petName:"+this.petName
                 +"  name:"+this.name+"  city:"+this.city+"  photoPath:"+this.photoPath;
     }
+
 }
