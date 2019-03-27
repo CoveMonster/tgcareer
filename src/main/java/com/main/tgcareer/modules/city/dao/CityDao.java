@@ -1,6 +1,6 @@
-package com.main.tgcareer.modules.user.dao;
+package com.main.tgcareer.modules.city.dao;
 
-import com.main.tgcareer.modules.user.entity.City;
+import com.main.tgcareer.modules.city.entity.City;
 import org.springframework.stereotype.Component;
 @Component
 public interface CityDao {

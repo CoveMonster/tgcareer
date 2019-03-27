@@ -1,4 +1,4 @@
-package com.main.tgcareer.modules.user.entity;
+package com.main.tgcareer.modules.corporation.entity;
 
 import lombok.Getter;
 import lombok.Setter;

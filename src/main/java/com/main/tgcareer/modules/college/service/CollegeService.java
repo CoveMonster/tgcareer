@@ -1,7 +1,7 @@
-package com.main.tgcareer.modules.user.service;
+package com.main.tgcareer.modules.college.service;
 
-import com.main.tgcareer.modules.user.dao.CollegeDao;
-import com.main.tgcareer.modules.user.entity.College;
+import com.main.tgcareer.modules.college.dao.CollegeDao;
+import com.main.tgcareer.modules.college.entity.College;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

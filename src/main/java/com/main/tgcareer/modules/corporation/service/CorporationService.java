@@ -1,8 +1,8 @@
-package com.main.tgcareer.modules.user.service;
+package com.main.tgcareer.modules.corporation.service;
 
 
-import com.main.tgcareer.modules.user.dao.CorporationDao;
-import com.main.tgcareer.modules.user.entity.Corporation;
+import com.main.tgcareer.modules.corporation.dao.CorporationDao;
+import com.main.tgcareer.modules.corporation.entity.Corporation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

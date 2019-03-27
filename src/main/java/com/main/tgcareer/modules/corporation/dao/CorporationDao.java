@@ -1,6 +1,6 @@
-package com.main.tgcareer.modules.user.dao;
+package com.main.tgcareer.modules.corporation.dao;
 
-import com.main.tgcareer.modules.user.entity.Corporation;
+import com.main.tgcareer.modules.corporation.entity.Corporation;
 import org.springframework.stereotype.Component;
 @Component
 public interface CorporationDao {

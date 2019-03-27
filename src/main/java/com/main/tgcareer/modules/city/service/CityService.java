@@ -1,8 +1,8 @@
-package com.main.tgcareer.modules.user.service;
+package com.main.tgcareer.modules.city.service;
 
 
-import com.main.tgcareer.modules.user.dao.CityDao;
-import com.main.tgcareer.modules.user.entity.City;
+import com.main.tgcareer.modules.city.dao.CityDao;
+import com.main.tgcareer.modules.city.entity.City;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

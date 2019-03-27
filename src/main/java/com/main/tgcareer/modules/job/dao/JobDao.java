@@ -1,6 +1,6 @@
-package com.main.tgcareer.modules.user.dao;
+package com.main.tgcareer.modules.job.dao;
 
-import com.main.tgcareer.modules.user.entity.Job;
+import com.main.tgcareer.modules.job.entity.Job;
 import org.springframework.stereotype.Component;
 @Component
 public interface JobDao {

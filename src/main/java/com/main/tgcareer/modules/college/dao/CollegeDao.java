@@ -1,6 +1,6 @@
-package com.main.tgcareer.modules.user.dao;
+package com.main.tgcareer.modules.college.dao;
 
-import com.main.tgcareer.modules.user.entity.College;
+import com.main.tgcareer.modules.college.entity.College;
 import org.springframework.stereotype.Component;
 @Component
 public interface CollegeDao {
